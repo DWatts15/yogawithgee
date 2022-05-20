@@ -1,20 +1,7 @@
-# Acebook Flask Template
+# yogawithgee Website in Flask
 
-_Coaching this? Find the source
-[here.](https://github.com/makersacademy/slug/blob/main/materials/universe/acebook/seeds/python/README.ed.md)_
-
-This template app was built using Python3, the Flask web framework and Pytest.
-
-### Features
-- Users can sign up, sign in and log out
-- They can also create, read update and delete (CRUD) posts
-- Users have to be signed in to create posts
-- Users can only update or delete their own posts
-
-### Design
-- posts.py and auth.py are views (the equivalent of Sinatra controllers)
-- post.py and user.py are models
-- db.py looks after creating the database connection
+## Introduction
+This repo contains code for the design and build of my first personal website, made in Flask.
 
 ## Quickstart
 
